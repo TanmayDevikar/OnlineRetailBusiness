@@ -1,11 +1,5 @@
 # Online Retail Business Full Stack Project
 
-## Description
-
-I have made this project with Angular + Spring Boot, React + Spring Boot, React + Nodejs
-
-A full-stack eCommerce application built with React and Spring Boot And Node Js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
-
 
 ## Table of Contents
 
@@ -14,11 +8,6 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Screenshots](#screenshots)
 
 ## Features
 
@@ -61,4 +50,5 @@ List the available API endpoints along with their descriptions and the necessary
 ## Contributing
 
 Contributions are welcome! If you find any bugs or want to add new features, please submit an issue or create a pull request.
+
 
