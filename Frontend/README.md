@@ -42,13 +42,5 @@
 2. Start the backend server:
 3. Access the application at `http://localhost:3000` in your web browser.
 
-## API Endpoints
-
-List the available API endpoints along with their descriptions and the necessary request and response formats.
-
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or want to add new features, please submit an issue or create a pull request.
 
 
