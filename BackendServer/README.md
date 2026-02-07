@@ -1,11 +1,6 @@
-# API Documentation for Ecommerce Project API
+# API Documentation for Online Retail Business Backend
 
 This Git repository contains the Java Spring Boot source code for an e-commerce backend system with a RESTful API for browsing products, adding to cart, placing orders, and checking out. Built with a modular MVC architecture and backed by MySQL, it includes unit tests and documentation.
-
-## Api Docs
-
-
-Welcome to the documentation for the Ecommerce Project API! This API provides a set of endpoints and functionalities to interact with our eCommerce platform programmatically. With this API, you can build applications, integrations, and automate various tasks related to our online store.
 
 
 ## Authentication
@@ -100,6 +95,7 @@ All protected endpoints require the `Authorization` header with a valid token.
 - Server 1:
   - URL: `http://localhost:5454`
   - Description: Generated server URL
+
 
 
 
